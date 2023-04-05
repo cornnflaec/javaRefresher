@@ -20,6 +20,7 @@ public class dSandA_PriorityQueue {
         queue.offer(1.5);
         queue.offer(2.0);
 
+
         while(!queue.isEmpty()){
             System.out.println(queue.poll());
 
@@ -49,6 +50,9 @@ public class dSandA_PriorityQueue {
         }
 
 
+
     }
+
+
 
 }
